@@ -9,7 +9,7 @@ print(data.head())
 plt.scatter(data['Year'],data['GDP'])
 plt.show()
 print(data.head())
-
+###vnbmmbm
 x=data.iloc[:,:1]  
 y=data.iloc[:,1]
 print(x)
